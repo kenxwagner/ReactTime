@@ -17,6 +17,17 @@ function App() {
         >
           Learn React
         </a>
+        This is a busy day, but it is important to continue on your projects. Editing the proper file is important... and fun.
+
+        <a
+          className="App-link"
+          href="https://portal.hostgator.com/login ."
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Build the site.
+        </a>
+
       </header>
     </div>
   );
