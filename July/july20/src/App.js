@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-import textView from './assets/views/textView';
 function App() {
   return (
     <div className="App">
